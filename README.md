@@ -61,7 +61,7 @@ This project is licensed under the [Apache 2.0 License](https://www.apache.org/l
 
 If you have any questions or suggestions, feel free to contact me:
 
-- **Email**: contact@pingsnotes.github.io
+- **Email**: yuping1624@gmail.com
 - **Website**: [pingsnotes.github.io](https://pingsnotes.github.io)
 
 ## Changelog
